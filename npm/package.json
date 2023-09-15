@@ -1,0 +1,26 @@
+{
+  "name": "betterjsonplus",
+  "version": "1.0.0",
+  "description": "json but allows loops and linear memory. spaces, tabs, return, new line characters will all be omitted in the json file. all characters are valid. can also use with python pip.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CutSandstone/betterJson.git"
+  },
+  "keywords": [
+    "json",
+    "betterjson",
+    "jsonplus",
+    "loops",
+    "self-reference"
+  ],
+  "author": "CutSandstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CutSandstone/betterJson/issues"
+  },
+  "homepage": "https://github.com/CutSandstone/betterJson#readme"
+}
